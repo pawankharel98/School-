@@ -91,7 +91,7 @@ hr{
 		color: white;
 		background: green;
 }
-@media (max-width: 485px) {
+@media (max-width: 600px) {
   .form {
     padding: 10px;
   }
